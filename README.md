@@ -23,9 +23,10 @@ High-level overview of the architecture:
 
 This project leverages the following technologies and tools:
 
-Programming Language
+-Programming Language:
 1. Python
-Amazon Web Services (AWS)
+
+-Amazon Web Services (AWS):
 1. S3 (Simple Storage Service): For storing raw and processed data.
 2. Glue Crawler: To automatically detect the data schema in S3.
 3. Glue Catalog: To maintain the metadata of the datasets.
